@@ -1,0 +1,4 @@
+﻿Wymagania funkcjonalne aplikacji:
+1. Powitanie użytkownika
+2. Zapytanie o imię
+3. Pozdrowienie użytkownika po imieniu
