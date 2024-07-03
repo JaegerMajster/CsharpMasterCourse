@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDouble", "Variable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDecimal", "VariablesDecimal\VariablesDecimal.csproj", "{6B74F379-A3ED-4031-80B6-FF416228C368}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesBoolean", "VariablesBoolean\VariablesBoolean.csproj", "{5A2BEB18-E860-408F-AC6C-A07488AC98DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6B74F379-A3ED-4031-80B6-FF416228C368}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B74F379-A3ED-4031-80B6-FF416228C368}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B74F379-A3ED-4031-80B6-FF416228C368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2BEB18-E860-408F-AC6C-A07488AC98DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2BEB18-E860-408F-AC6C-A07488AC98DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2BEB18-E860-408F-AC6C-A07488AC98DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2BEB18-E860-408F-AC6C-A07488AC98DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
