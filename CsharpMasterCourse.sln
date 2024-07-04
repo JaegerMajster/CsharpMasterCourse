@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesTypeConversions", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesHomework2TypeConversions", "VariablesHomework2TypeConversions\VariablesHomework2TypeConversions.csproj", "{D0454E9E-5ABD-468E-8078-45BF90032896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsBasicIf", "ConditionalsBasicIf\ConditionalsBasicIf.csproj", "{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAdvancedIf", "ConditionalsAdvancedIf\ConditionalsAdvancedIf.csproj", "{E8993F4A-F477-4CF0-81A7-56F15893F2A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{D0454E9E-5ABD-468E-8078-45BF90032896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0454E9E-5ABD-468E-8078-45BF90032896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0454E9E-5ABD-468E-8078-45BF90032896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
