@@ -5,19 +5,21 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{1010D78B-A449-452F-9CF6-421D90C5E72F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingApp", "GreetingApp\GreetingApp.csproj", "{7EDBB6CA-B3D0-4C40-B2A1-1527B43FBDCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingApp", "GreetingApp\GreetingApp.csproj", "{7EDBB6CA-B3D0-4C40-B2A1-1527B43FBDCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesString", "VariablesString\VariablesString.csproj", "{239BDFDE-A492-4B7D-B27A-B09921277638}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesString", "VariablesString\VariablesString.csproj", "{239BDFDE-A492-4B7D-B27A-B09921277638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesInteger", "VariablesInteger\VariablesInteger.csproj", "{8B0F4E21-6207-4078-B6F0-1B160E58E456}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesInteger", "VariablesInteger\VariablesInteger.csproj", "{8B0F4E21-6207-4078-B6F0-1B160E58E456}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDouble", "VariablesDouble\VariablesDouble.csproj", "{880A3591-9175-4619-B5F3-53C41DCC0306}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesDouble", "VariablesDouble\VariablesDouble.csproj", "{880A3591-9175-4619-B5F3-53C41DCC0306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDecimal", "VariablesDecimal\VariablesDecimal.csproj", "{6B74F379-A3ED-4031-80B6-FF416228C368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesDecimal", "VariablesDecimal\VariablesDecimal.csproj", "{6B74F379-A3ED-4031-80B6-FF416228C368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesBoolean", "VariablesBoolean\VariablesBoolean.csproj", "{5A2BEB18-E860-408F-AC6C-A07488AC98DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesBoolean", "VariablesBoolean\VariablesBoolean.csproj", "{5A2BEB18-E860-408F-AC6C-A07488AC98DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesNull", "VariablesNull\VariablesNull.csproj", "{08C8911B-87D6-4ABD-AF3B-0553214F4481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesNull", "VariablesNull\VariablesNull.csproj", "{08C8911B-87D6-4ABD-AF3B-0553214F4481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesHomework1Variables", "VariablesHomework1Variables\VariablesHomework1Variables.csproj", "{6DB7EF5E-9057-4728-88AD-28910AD66C64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{08C8911B-87D6-4ABD-AF3B-0553214F4481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C8911B-87D6-4ABD-AF3B-0553214F4481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C8911B-87D6-4ABD-AF3B-0553214F4481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB7EF5E-9057-4728-88AD-28910AD66C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB7EF5E-9057-4728-88AD-28910AD66C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB7EF5E-9057-4728-88AD-28910AD66C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB7EF5E-9057-4728-88AD-28910AD66C64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
