@@ -1,0 +1,6 @@
+﻿Aplikacja powinna zawierać:
+1. Przywitanie
+2. Zapytanie o wiek użytkownika
+3. Obliczenie wieku za 25 lat
+4. Obliczenie wieku sprzed 25 lat
+5. Wypisanie wszystkich danych w konsoli
