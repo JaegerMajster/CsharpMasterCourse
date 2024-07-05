@@ -1,0 +1,6 @@
+﻿Wymagania funkcjonalne dotyczące pracy domowej z intrukcji warunkowych:
+1. Zapytać się imię użytkownika
+2. Wykorzystać podane imię użytkownika i w zależności od tego czy podał imię Tim, Timothy, czy inne odpowiednioe powitać:
+- Tim lub Timothy - "Witaj profesorku"
+- inne - "Witaj młody padawanie"
+3. Do powyższego zadania wykorzystać również instrukcję warunkową switch
