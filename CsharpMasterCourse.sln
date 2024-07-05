@@ -19,21 +19,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesBoolean", "Variabl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesNull", "VariablesNull\VariablesNull.csproj", "{08C8911B-87D6-4ABD-AF3B-0553214F4481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesHomework1Variables", "VariablesHomework1Variables\VariablesHomework1Variables.csproj", "{6DB7EF5E-9057-4728-88AD-28910AD66C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesHomework1Variables", "VariablesHomework1Variables\VariablesHomework1Variables.csproj", "{6DB7EF5E-9057-4728-88AD-28910AD66C64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDateTime", "VariablesDateTime\VariablesDateTime.csproj", "{C4BE29A9-4137-4501-A9CB-C3BE4293ADBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesDateTime", "VariablesDateTime\VariablesDateTime.csproj", "{C4BE29A9-4137-4501-A9CB-C3BE4293ADBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDateOnly", "VariablesDateOnly\VariablesDateOnly.csproj", "{781B0204-152E-4286-A126-5297B548DD69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesDateOnly", "VariablesDateOnly\VariablesDateOnly.csproj", "{781B0204-152E-4286-A126-5297B548DD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesTimeOnly", "VariablesTimeOnly\VariablesTimeOnly.csproj", "{2004F1AD-1392-4CF9-9B84-2D122E09CD1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesTimeOnly", "VariablesTimeOnly\VariablesTimeOnly.csproj", "{2004F1AD-1392-4CF9-9B84-2D122E09CD1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesTypeConversions", "VariablesTypeConversions\VariablesTypeConversions.csproj", "{137954C9-12D1-4B92-8343-C39CAAFCDF46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesTypeConversions", "VariablesTypeConversions\VariablesTypeConversions.csproj", "{137954C9-12D1-4B92-8343-C39CAAFCDF46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesHomework2TypeConversions", "VariablesHomework2TypeConversions\VariablesHomework2TypeConversions.csproj", "{D0454E9E-5ABD-468E-8078-45BF90032896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesHomework2TypeConversions", "VariablesHomework2TypeConversions\VariablesHomework2TypeConversions.csproj", "{D0454E9E-5ABD-468E-8078-45BF90032896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsBasicIf", "ConditionalsBasicIf\ConditionalsBasicIf.csproj", "{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalsBasicIf", "ConditionalsBasicIf\ConditionalsBasicIf.csproj", "{FD03E1B5-7C76-462D-992D-A1A22F6E8E05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAdvancedIf", "ConditionalsAdvancedIf\ConditionalsAdvancedIf.csproj", "{E8993F4A-F477-4CF0-81A7-56F15893F2A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalsAdvancedIf", "ConditionalsAdvancedIf\ConditionalsAdvancedIf.csproj", "{E8993F4A-F477-4CF0-81A7-56F15893F2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsSwitch", "ConditionalsSwitch\ConditionalsSwitch.csproj", "{062A88CE-108E-4A8C-A40E-A87117D75997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8993F4A-F477-4CF0-81A7-56F15893F2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062A88CE-108E-4A8C-A40E-A87117D75997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062A88CE-108E-4A8C-A40E-A87117D75997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062A88CE-108E-4A8C-A40E-A87117D75997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062A88CE-108E-4A8C-A40E-A87117D75997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
