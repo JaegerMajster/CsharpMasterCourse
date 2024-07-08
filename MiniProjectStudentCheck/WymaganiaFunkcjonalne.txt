@@ -1,0 +1,13 @@
+﻿Wymagania funkcjonalne dotyczące mini projektu StudentCheck
+1. Powitanie
+2. Zapytanie o imię
+3. Zapytanie o wiek
+4. Sprawdzenie wieku
+	- jeżeli poniżej 21 roku życia to
+		- oblicz różnicę (X) do 21 lat 
+		- poleć poczekać jeszcze X lat przed rozpoczęciem kursu
+	- jeżeli 21 lat lub więcej
+		- sprawdź czy na imię ma Sue lub Bob
+			- jeśli tak to przywitaj profesora
+			- jeśli nie to przywitaj po imieniu
+5. Podziękowanie i zamknięcie aplikacji
