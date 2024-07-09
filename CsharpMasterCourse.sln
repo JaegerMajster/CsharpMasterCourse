@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsLists", "SetsLists\Sets
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework2Lists", "SetsHomework2Lists\SetsHomework2Lists.csproj", "{BB1E8B93-46CB-4E05-802C-B9175DD04B24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsDictionaries", "SetsDictionaries\SetsDictionaries.csproj", "{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
