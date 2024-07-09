@@ -1,0 +1,10 @@
+﻿Treść zadania: Dodaj uczniów do listy klasy, aż nie będzie już więcej uczniów. Następnie wydrukuj liczbę uczniów w konsoli.
+
+Wymagania funkcjonalne:
+1. Powitanie
+2. Stwórz listę studentów
+3. Zapytaj się o imię i nazwisko studenta
+- jeśli poda puste imię uznaj, zapytaj czy wszystkie osoby zostały już podane
+4. Zapytaj się czy użytkonik chce dodać jeszcze jakąś osobę
+5. Wyświetl liczbę studentów w grupie
+6. Podziękowanie

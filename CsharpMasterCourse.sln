@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework1Arrays", "Sets
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsLists", "SetsLists\SetsLists.csproj", "{46FBA19D-5D26-41E2-BC69-A76BC3691FF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework2Lists", "SetsHomework2Lists\SetsHomework2Lists.csproj", "{BB1E8B93-46CB-4E05-802C-B9175DD04B24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{46FBA19D-5D26-41E2-BC69-A76BC3691FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46FBA19D-5D26-41E2-BC69-A76BC3691FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46FBA19D-5D26-41E2-BC69-A76BC3691FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1E8B93-46CB-4E05-802C-B9175DD04B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
