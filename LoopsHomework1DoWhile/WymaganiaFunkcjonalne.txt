@@ -1,0 +1,8 @@
+﻿Wymagania funkcjonalne do aplikacji domowej dotyczącej wykorzystania pętli do i while
+1. Powitanie
+2. Zapytanie o imię
+3. Sprawdzenie czy podane zostało imię Tim
+- jeśli tak to powitanie jako profesora i powrót do punktu 2.
+- jeśli nie to powitanie jako studenta i powrót do punktu 2.
+- jeśli wpisano exit to wyjście z pętli
+4. Podziękowanie i zakońćzenie aplikacji
