@@ -1,0 +1,13 @@
+﻿Treść zadania:
+Utwórz tablicę zawierającą 3 imiona. Poproś użytkownika aby wybrał numer. 
+Kiedy użytkownik poda numer, to wyświetl odpowiednie umię. 
+Upewnij się, ż podany numer jest prawidłową liczbą.
+
+Wymagania funkcjonalne dotyczące zadania domowego dotyczącego tablic:
+1. Powitanie
+2. Stworzenie tablicy z 3 imionami
+3. Zapytanie o liczbę
+- jeśli poda właściwą liczbę - wypisanie imienia
+- jeśli poda nieprawidłową liczbę (znaki) - poproś ponownie o podanie liczby
+- jeśli poda liczbę spoza zakresu poproś ponownie o podanie liczby
+4. Podziękowanie

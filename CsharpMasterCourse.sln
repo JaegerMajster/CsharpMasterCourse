@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsHomework1DoWhile", "Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsArrays", "SetsArrays\SetsArrays.csproj", "{ACEC4097-6793-4729-B4CB-9C663937BD6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework1Arrays", "SetsHomework1Arrays\SetsHomework1Arrays.csproj", "{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{ACEC4097-6793-4729-B4CB-9C663937BD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACEC4097-6793-4729-B4CB-9C663937BD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACEC4097-6793-4729-B4CB-9C663937BD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
