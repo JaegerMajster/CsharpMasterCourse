@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalsSwitch", "Condi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalsHomework1ConditionalsStatements", "ConditionalsHomework1ConditionalsStatements\ConditionalsHomework1ConditionalsStatements.csproj", "{51B49D14-7A88-46D9-A443-7BF98B7C3D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniProjectStudentCheck", "MiniProjectStudentCheck\MiniProjectStudentCheck.csproj", "{7C41DFA5-D735-465F-B58A-B8803E6080C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniProjectStudentCheck", "MiniProjectStudentCheck\MiniProjectStudentCheck.csproj", "{7C41DFA5-D735-465F-B58A-B8803E6080C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsDoWhile", "LoopsDo\LoopsDoWhile.csproj", "{54D0A106-8AE0-490D-9552-639680D24D09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{7C41DFA5-D735-465F-B58A-B8803E6080C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C41DFA5-D735-465F-B58A-B8803E6080C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C41DFA5-D735-465F-B58A-B8803E6080C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D0A106-8AE0-490D-9552-639680D24D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D0A106-8AE0-490D-9552-639680D24D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D0A106-8AE0-490D-9552-639680D24D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D0A106-8AE0-490D-9552-639680D24D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
