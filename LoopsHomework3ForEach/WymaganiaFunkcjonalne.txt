@@ -1,0 +1,10 @@
+﻿Treść zadania:
+Zapytaj użytkownika o jego imię. 
+Kontynuuj pytanie o imiona, dopóki nie będzie ich więcej. 
+Następnie przejdź przez każde imię używając pętli foreach i powiedz każdej osobie "cześć" na konsoli.
+
+Wymagania funkcjonalne:
+1. Powitanie
+2. Pytanie o imię w pętli (pozostaw puste aby zakończyć)
+3. Korzystając z pętli foreach przywitaj wszystkie wpisane osoby
+4. Podziękowanie
