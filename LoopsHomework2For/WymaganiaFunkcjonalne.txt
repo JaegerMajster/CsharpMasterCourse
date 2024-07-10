@@ -1,0 +1,10 @@
+﻿Treść zadania:
+Zapytaj użytkownika o listę imion oddzielonych przecinkami (bez spacji). 
+Podziel ciąg na tablicę stringów. Przejdź przez tablicę w pętli i dla każdej osoby wypisz na konsolę "Cześć <imię>".
+
+Wymagania funkcjonalne:
+1. Powitanie
+2. Prośba o wpisanie imion oddzielonych przecinkami bez spacji
+3. Podzielenie stringa na tablicę
+4. Wypisanie pozdrowienia dla każdej z osób zapisanych w tablicy
+5. Podziękowanie
