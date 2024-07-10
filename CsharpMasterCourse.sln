@@ -41,19 +41,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalsHomework1Condit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniProjectStudentCheck", "MiniProjectStudentCheck\MiniProjectStudentCheck.csproj", "{7C41DFA5-D735-465F-B58A-B8803E6080C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsDoWhile", "LoopsDo\LoopsDoWhile.csproj", "{54D0A106-8AE0-490D-9552-639680D24D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsDoWhile", "LoopsDo\LoopsDoWhile.csproj", "{54D0A106-8AE0-490D-9552-639680D24D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsHomework1DoWhile", "LoopsHomework1DoWhile\LoopsHomework1DoWhile.csproj", "{5B781C38-61E0-44FF-8ACB-7863708D154B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsHomework1DoWhile", "LoopsHomework1DoWhile\LoopsHomework1DoWhile.csproj", "{5B781C38-61E0-44FF-8ACB-7863708D154B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsArrays", "SetsArrays\SetsArrays.csproj", "{ACEC4097-6793-4729-B4CB-9C663937BD6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsArrays", "SetsArrays\SetsArrays.csproj", "{ACEC4097-6793-4729-B4CB-9C663937BD6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework1Arrays", "SetsHomework1Arrays\SetsHomework1Arrays.csproj", "{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsHomework1Arrays", "SetsHomework1Arrays\SetsHomework1Arrays.csproj", "{D819D2B2-DD67-4ACC-BA3D-F7298F49DA03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsLists", "SetsLists\SetsLists.csproj", "{46FBA19D-5D26-41E2-BC69-A76BC3691FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsLists", "SetsLists\SetsLists.csproj", "{46FBA19D-5D26-41E2-BC69-A76BC3691FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework2Lists", "SetsHomework2Lists\SetsHomework2Lists.csproj", "{BB1E8B93-46CB-4E05-802C-B9175DD04B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsHomework2Lists", "SetsHomework2Lists\SetsHomework2Lists.csproj", "{BB1E8B93-46CB-4E05-802C-B9175DD04B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsDictionaries", "SetsDictionaries\SetsDictionaries.csproj", "{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsDictionaries", "SetsDictionaries\SetsDictionaries.csproj", "{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework3Dictionaries", "SetsHomework3Dictionaries\SetsHomework3Dictionaries.csproj", "{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

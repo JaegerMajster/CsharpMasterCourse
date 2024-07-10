@@ -1,0 +1,11 @@
+﻿Treść zadania:
+Utwórz listę słownikową zawierającą identyfikatory pracowników oraz odpowiadające im imiona i nazwiska. 
+Wypełnij kilka rekordów. Następnie poproś użytkownika o podanie swojego identyfikatora i zwróć jego dane.
+
+Wymagania funkcjonalne
+1. Powitanie
+2. Pętla do dodawania pracowników do słownika zawierającego klucz (ID) oraz definicję (imię i nazwisko)
+3. Zapytanie czy przerwać wpisywanie pracowników
+4. Prośba o podanie numeru ID użytkownika
+5. Wyświetlenie jego danych
+6. Podziękowanie
