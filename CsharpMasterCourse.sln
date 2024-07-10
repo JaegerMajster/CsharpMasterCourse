@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsDictionaries", "SetsDic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework3Dictionaries", "SetsHomework3Dictionaries\SetsHomework3Dictionaries.csproj", "{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsFor", "LoopsFor\LoopsFor.csproj", "{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
