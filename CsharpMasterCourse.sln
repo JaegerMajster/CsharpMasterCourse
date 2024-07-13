@@ -55,17 +55,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsHomework2Lists", "SetsH
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsDictionaries", "SetsDictionaries\SetsDictionaries.csproj", "{1B57D9CE-F5F1-4EF4-90A1-2B3C95D26E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsHomework3Dictionaries", "SetsHomework3Dictionaries\SetsHomework3Dictionaries.csproj", "{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsHomework3Dictionaries", "SetsHomework3Dictionaries\SetsHomework3Dictionaries.csproj", "{BC0A6B0D-4C33-4053-88BD-E7F36DC361B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsFor", "LoopsFor\LoopsFor.csproj", "{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsFor", "LoopsFor\LoopsFor.csproj", "{535DC9C1-1EE6-4ED6-9E5D-02D93B5B5F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsHomework2For", "LoopsHomework2For\LoopsHomework2For.csproj", "{7D07DC30-8C38-4D0B-9D01-20A6BFA99BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsHomework2For", "LoopsHomework2For\LoopsHomework2For.csproj", "{7D07DC30-8C38-4D0B-9D01-20A6BFA99BA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsForEach", "LoopsForEach\LoopsForEach.csproj", "{4308B50E-AF36-4D06-ACDE-27FDC2E92360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsForEach", "LoopsForEach\LoopsForEach.csproj", "{4308B50E-AF36-4D06-ACDE-27FDC2E92360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsHomework3ForEach", "LoopsHomework3ForEach\LoopsHomework3ForEach.csproj", "{0EBFE624-0BAE-4814-A595-64610C43F2FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsHomework3ForEach", "LoopsHomework3ForEach\LoopsHomework3ForEach.csproj", "{0EBFE624-0BAE-4814-A595-64610C43F2FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{8EB23B92-7EDC-4453-99A0-F8D445F12D4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{8EB23B92-7EDC-4453-99A0-F8D445F12D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsHomework", "MethodsHomework\MethodsHomework.csproj", "{838BB5AF-4E67-43B0-B5B4-F089F98012A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{8EB23B92-7EDC-4453-99A0-F8D445F12D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EB23B92-7EDC-4453-99A0-F8D445F12D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EB23B92-7EDC-4453-99A0-F8D445F12D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838BB5AF-4E67-43B0-B5B4-F089F98012A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838BB5AF-4E67-43B0-B5B4-F089F98012A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838BB5AF-4E67-43B0-B5B4-F089F98012A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838BB5AF-4E67-43B0-B5B4-F089F98012A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

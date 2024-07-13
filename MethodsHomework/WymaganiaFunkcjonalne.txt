@@ -1,0 +1,12 @@
+﻿Treść zadania:
+Utwórz metodę powitalną, metodę pytającą o imię użytkownika oraz kolejną metodę, która powie użytkownikowi 'Witaj <imię>'. 
+Wywołaj te metody w Program.cs.
+
+Wymagania funkcjonalne:
+1. Stwórz metodę powitalną
+2. Stwórz metodę pytającą o imię użytkownika
+3. Stwórz metodę wypisującą w konsoli: "Witaj <imie>""
+4. Wywołaj metodę powitalną
+5. Wywołaj metodę pytającą
+6. Wywołaj metodą wypisującą
+7. Podziękowanie
